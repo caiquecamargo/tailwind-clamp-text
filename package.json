@@ -1,6 +1,6 @@
 {
-  "name": "tailwind-clamp-text",
-  "version": "0.0.2",
+  "name": "@caiquecamargo/tailwind-clamp-text",
+  "version": "0.0.1",
   "description": "Tailwind plugin with custom css to generate custom resposive text with clamp",
   "main": "src/index.js",
   "files": [
